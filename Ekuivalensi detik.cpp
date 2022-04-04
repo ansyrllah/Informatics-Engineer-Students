@@ -1,3 +1,4 @@
+// Program untuk menghitung ekuivalensi dari detik ke dalam hari, jam, menit, dan detik
 #include <iostream>
 using namespace std;
 
