@@ -9,7 +9,7 @@ int main(){
 	do {
 	    cout << "      Menu Berbagai Program       " << endl;
 	    cout << "**********************************" << endl;
-		cout << "Pilih program \n1. Program Bintang \n2. Program Bilangan Faktorial \n3. Program Bilangan Prima 1-1000"<<endl;
+		cout << "Pilih program \n1. Program Bintang Persegi\n2. Program Bilangan Faktorial \n3. Program Bilangan Prima 1-1000"<<endl;
 		cout << "Masukkan pilihan : "; cin >> pil;
 		
 		if (pil == 1) 
